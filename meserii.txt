@@ -1,0 +1,16 @@
+15
+doctor
+profesor
+bucatar
+pompier
+pilot
+arhitect
+inginer
+avocat
+frizer
+mecanic
+pictor
+soldat
+fotograf
+cantaret
+zugrav
